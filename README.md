@@ -1,4 +1,4 @@
-# CleanArchitecuturewothEFcore
+# CleanArchitecuturewithEFcore
 
 GET => https://localhost:7119/api/Movie  {"id":1,"name": "Lord Of The Rings","cost": 2}
 
